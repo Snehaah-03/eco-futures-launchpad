@@ -12,16 +12,16 @@ const HeroSection = () => {
 
   return (
     <section className="relative py-20 overflow-hidden">
-      <div className="absolute inset-0 eco-gradient opacity-10"></div>
+      <div className="absolute inset-0 bg-gradient-to-r from-eco-mint/20 to-eco-sage/20 opacity-80"></div>
       
       <div className="max-w-6xl mx-auto px-6 relative z-10">
         <div className="text-center max-w-3xl mx-auto">
           <h2 className="text-5xl font-bold mb-6 leading-tight">
-            Sustainable Living <span className="text-eco-forest">Made Simple</span>
+            Clothing From <span className="text-eco-forest">Nature's Palette</span>
           </h2>
           
           <p className="text-xl mb-8 text-eco-deep-teal/80">
-            Join the movement with our zero-waste reusable bottle and eco-friendly essentials for everyday life.
+            Experience the beauty of garments colored with plant-based dyes, crafted sustainably to honor traditional techniques and our planet.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -29,7 +29,7 @@ const HeroSection = () => {
               className="bg-eco-forest hover:bg-eco-forest/90 text-white px-8 py-6 text-lg" 
               onClick={scrollToProduct}
             >
-              Explore Our Eco Bottle
+              Explore Our Collection
             </Button>
             <Button 
               variant="outline" 

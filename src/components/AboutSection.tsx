@@ -5,18 +5,18 @@ const AboutSection = () => {
   const values = [
     {
       icon: <Leaf className="h-8 w-8 text-eco-forest" />,
-      title: "Sustainability",
-      description: "We prioritize eco-friendly materials and production methods to minimize our environmental footprint."
+      title: "Natural Dyes",
+      description: "We use plant-based dyes like indigo, turmeric, and madder root to create beautiful, earth-friendly colors."
     },
     {
       icon: <Recycle className="h-8 w-8 text-eco-forest" />,
-      title: "Circularity",
-      description: "Our products are designed for longevity and recyclability, reducing waste and promoting a circular economy."
+      title: "Sustainable Textiles",
+      description: "Our organic cotton and hemp fabrics are grown without pesticides and processed using traditional low-impact methods."
     },
     {
       icon: <Heart className="h-8 w-8 text-eco-forest" />,
-      title: "Ethical Production",
-      description: "We ensure fair wages and safe working conditions throughout our supply chain."
+      title: "Artisanal Craftsmanship",
+      description: "We partner with skilled artisans who use generations-old techniques to create our naturally dyed garments."
     }
   ];
 
@@ -24,16 +24,16 @@ const AboutSection = () => {
     <section id="about" className="py-16 px-6 bg-eco-cream">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
-          <span className="text-eco-forest font-medium">OUR MISSION</span>
-          <h3 className="text-3xl font-semibold mt-2">Who We Are</h3>
+          <span className="text-eco-forest font-medium">OUR PHILOSOPHY</span>
+          <h3 className="text-3xl font-semibold mt-2">Clothing From Nature</h3>
           <div className="bg-eco-sage h-1 w-16 mx-auto mb-6 rounded"></div>
         </div>
         
         <div className="max-w-3xl mx-auto text-center mb-12">
           <p className="text-lg leading-relaxed">
-            We're a mission-driven brand creating eco-friendly essentials for everyday living — from reusable water bottles to zero-waste home goods. 
-            Our goal is to make sustainability both accessible and stylish, proving that you don't have to compromise on design or functionality 
-            to make environmentally conscious choices.
+            We create clothing that honors both ancient techniques and modern sustainability. 
+            By using plant-based dyes and organic textiles, we craft garments that are kind to your skin 
+            and to our planet. Each piece tells a story of traditional craftsmanship and environmental stewardship.
           </p>
         </div>
         
