@@ -1,5 +1,5 @@
 
-import { ArrowDown, Leaf, Recycle, Seedling } from "lucide-react";
+import { ArrowDown, Leaf, Recycle, Sprout } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const HeroSection = () => {
@@ -19,7 +19,7 @@ const HeroSection = () => {
         <Leaf size={40} className="text-eco-forest" />
       </div>
       <div className="absolute bottom-10 right-10 animate-float opacity-20" style={{ animationDelay: "1s" }}>
-        <Seedling size={50} className="text-eco-forest" />
+        <Sprout size={50} className="text-eco-forest" />
       </div>
       
       <div className="max-w-6xl mx-auto px-6 relative z-10">
