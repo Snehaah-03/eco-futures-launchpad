@@ -7,6 +7,7 @@ import ReviewsSection from "@/components/ReviewsSection";
 import EthicalBrands from "@/components/EthicalBrands";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
+import PlantTreeSection from "@/components/PlantTreeSection";
 
 const Index = () => {
   return (
@@ -15,6 +16,7 @@ const Index = () => {
       <HeroSection />
       <AboutSection />
       <ProductShowcase />
+      <PlantTreeSection />
       <ReviewsSection />
       <EthicalBrands />
       <ContactSection />

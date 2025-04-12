@@ -1,6 +1,6 @@
 
 import { Button } from "@/components/ui/button";
-import { Leaf, Recycle, Info, MoveRight, MoveDown } from "lucide-react";
+import { Leaf, Recycle, Info, MoveRight, MoveDown, TreeDeciduous, Sprout } from "lucide-react";
 import { useState } from "react";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 
@@ -43,7 +43,7 @@ const ProductShowcase = () => {
           <span className="text-eco-forest font-medium inline-flex items-center gap-2">
             <Leaf className="h-4 w-4" /> NATURAL COLLECTION
           </span>
-          <h2 className="text-4xl font-semibold mb-4 mt-2">Flower-Dyed Textiles</h2>
+          <h2 className="text-4xl font-playfair font-semibold mb-4 mt-2">Flower-Dyed Textiles</h2>
           <div className="bg-eco-sage h-1 w-16 mb-6 rounded"></div>
           
           <p className="mb-4 text-lg">Our signature textiles feature intricate floral patterns, hand-printed using only natural dyes extracted from plants, flowers, and roots.</p>
