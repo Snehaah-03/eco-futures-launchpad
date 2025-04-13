@@ -1,4 +1,4 @@
-![Uploading design.png…]()
+
 
 
 # *Natural Palette*
