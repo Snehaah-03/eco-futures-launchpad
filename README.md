@@ -1,28 +1,23 @@
+![Untitled-3](design.png)
+# *[Project Name]*
 
-# Natural Palette
 
-## Sustainable Fashion with Natural Dyes
+*DESIGN.EXE designathon 2025*
 
-Natural Palette is a conscious fashion brand that transforms traditional plant-based dyeing techniques into modern, eco-friendly clothing. We celebrate artisanal craftsmanship by creating garments that not only look beautiful but also honor our planet's natural resources.
+> A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
 
-Our mission is to reconnect fashion with nature, using sustainable practices that reduce environmental impact and support traditional textile artisans.
 
-### Key Highlights
-- 🍃 100% Plant-Based Dye Techniques
-- 🌍 Eco-Conscious Production
-- 🌱 Minimal Environmental Footprint
-- 🎨 Unique, Artisan-Crafted Designs
+## *Link to figma file*
+Add the link here
 
-## Getting Started
+## *Hosted url*
+Add the link here
 
-### Installation
-```bash
-npm install
-npm run dev
-```
+## *Installation*
+How on earth can we set up your project up and running?
 
-## Contributing
-We welcome passionate individuals who believe in sustainable fashion. Please read our contributing guidelines before submitting pull requests.
+## *Steps to run*  
+Care to explain?
 
-## License
-MIT License
+## *Acknowledgements*
+Give credit to any resources, tutorials, libraries helped you build your project.
