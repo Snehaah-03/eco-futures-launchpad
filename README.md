@@ -1,4 +1,5 @@
-![Untitled-3](design.png)
+
+
 # *Natural Palette*
 
 
